@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This repository contains an interactive data dashboard built with Python and Streamlit to analyze the global hydropower market. The project's primary goal is to identify strategic growth opportunities for *Voith Hydro* by combining market trend analysis with a custom growth potential index. This is a portfolio project created for demonstration and educational purposes.
+This repository contains an interactive data dashboard built with Python and Streamlit to analyze the global hydropower market. The project's primary goal is to identify strategic growth opportunities for Voith Hydro by combining market trend analysis with a custom growth potential index. This is a portfolio project created for demonstration and educational purposes.
 
 ## **Key Features**
 
@@ -14,12 +14,12 @@ This repository contains an interactive data dashboard built with Python and Str
 ## **Live Demo**
 You can explore both dashboards live by clicking the links below
 
-- **Streamlit App (Code-based):** 🔗 [https://globalhydropowermarketanalysis-osb2fef3iukah4ksofmctk.streamlit.app]
+- **Streamlit App (Code-based):** [https://globalhydropowermarketanalysis-osb2fef3iukah4ksofmctk.streamlit.app]
 
-- **Tableau Dashboard (BI-tool):** 🔗 [https://public.tableau.com/app/profile/aklilu.abera/viz/GlobalHydropowerMarketAnalysis/Dashboard1]
+- **Tableau Dashboard (BI-tool):** [https://public.tableau.com/app/profile/aklilu.abera/viz/GlobalHydropowerMarketAnalysis/Dashboard1]
 
 ## **Data Notice**
-The data used in this project is entirely *synthetic* and was generated for demonstration purposes. It is not reflective of real-world figures and should not be used for actual market analysis.
+The data used in this project is entirely synthetic and was generated for demonstration purposes. It is not reflective of real-world figures and should not be used for actual market analysis.
 
 **Author**: Aklilu Abera
 **Contact**: [https://www.linkedin.com/in/aklilu-abera]
