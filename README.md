@@ -16,10 +16,10 @@ You can explore both dashboards live by clicking the links below
 
 - **Streamlit App (Code-based):** 🔗 [Live Streamlit Dashboard Link]
 
-- **Tableau Dashboard (BI-tool):** 🔗 ![](https://public.tableau.com/app/profile/aklilu.abera/viz/GlobalHydropowerMarketAnalysis/Dashboard1)
+- **Tableau Dashboard (BI-tool):** 🔗 [https://public.tableau.com/app/profile/aklilu.abera/viz/GlobalHydropowerMarketAnalysis/Dashboard1]
 
 ## **Data Notice**
 The data used in this project is entirely *synthetic* and was generated for demonstration purposes. It is not reflective of real-world figures and should not be used for actual market analysis.
 
 **Author**: Aklilu Abera
-**Contact**: ![](https://www.linkedin.com/in/aklilu-abera)
+**Contact**: [https://www.linkedin.com/in/aklilu-abera]
