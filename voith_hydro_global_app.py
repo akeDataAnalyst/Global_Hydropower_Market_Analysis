@@ -5,7 +5,7 @@ import plotly.express as px
 # 1. Page Configuration
 
 st.set_page_config(
-    page_title="Voith Hydro Global Growth Analysis",
+    page_title="Global Hydropower Market Analysis",
     layout="wide",
     initial_sidebar_state="expanded",
 )
