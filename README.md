@@ -14,7 +14,7 @@ This repository contains an interactive data dashboard built with Python and Str
 ## **Live Demo**
 You can explore both dashboards live by clicking the links below
 
-- **Streamlit App (Code-based):** [https://globalhydropowermarketanalysis-osb2fef3iukah4ksofmctk.streamlit.app]
+- **Streamlit App (Code-based):** [https://globalhydropowermarketanalysis-6hv7yqrllde4utjgvdsmsp.streamlit.app]
 
 - **Tableau Dashboard (BI-tool):** [https://public.tableau.com/app/profile/aklilu.abera/viz/GlobalHydropowerMarketAnalysis/Dashboard1]
 
